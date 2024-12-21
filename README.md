@@ -18,6 +18,8 @@ This Model Context Protocol (MCP) server enables AI assistants and applications 
 
 Users can run queries using natural language.
 
+<a href="https://glama.ai/mcp/servers/ggh4skfx4o"><img width="380" height="200" src="https://glama.ai/mcp/servers/ggh4skfx4o/badge" alt="cfbd-mcp-server MCP server" /></a>
+
 ## Sample output
 
 **Q. What was the largest upset among FCS games during the 2014 season?**
