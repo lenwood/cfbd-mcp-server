@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/lenwood-cfbd-mcp-server-badge.png)](https://mseep.ai/app/lenwood-cfbd-mcp-server)
+
 # College Football Data MCP Server
 
 An MCP server implementation providing access to college football statistics sourced from the [College Football Data API V2](https://collegefootballdata.com/) within [Claude Desktop](https://claude.ai/download).
